@@ -31,7 +31,7 @@ Suggested milestones for incremental development:
  -Extract the names and rank numbers and just print them
  -Get the names data into a dict and print it
  -Build the [year, 'name rank', ... ] list and print it
- -Fix main() to use the extract_names list
+ -Fix main() to use the extract_names list.
 """
 
 def extract_names(filename):
